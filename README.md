@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club EDA
 > Upgrad EPGP AI ML Lending loan case study from Garv Daga and Pushpendra Hirwani
 
 
